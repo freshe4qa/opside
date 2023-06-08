@@ -1,3 +1,7 @@
+<p align="center">
+  <img height="100" height="auto" src="https://github.com/freshe4qa/opside/assets/85982863/c97fa7c8-db8f-4896-bb42-564fe63b7f57">
+</p>
+
 # Opside Testnet
 
 Official documentation:
